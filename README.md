@@ -20,3 +20,11 @@ Backbone 모델: [‘High-Resolution Image Synthesis with Latent Diffusion Model
 <img width="536" height="82" alt="image" src="https://github.com/user-attachments/assets/2d17fa05-e88c-479b-871e-2f1343fa1241" />
 
 기존 모델 대비 메모리 효율이 28.6% 향상하였고, 학습 시간도 1000 에포크 기준 절반 아래 감소
+
+## References
+[1] Ho et al., *Denoising Diffusion Probabilistic Models*, arXiv 2020.  
+https://arxiv.org/abs/2006.11239  
+[2] Rombach et al., *High-Resolution Image Synthesis with Latent Diffusion Models*, arXiv 2022.  
+https://arxiv.org/abs/2112.10752  
+[3] Dhariwal & Nichol, *Diffusion Models Beat GANs on Image Synthesis*, ICLR 2021.  
+https://openreview.net/forum?id=isPnnaTZaP5

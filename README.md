@@ -10,13 +10,13 @@ Backbone 모델: [‘High-Resolution Image Synthesis with Latent Diffusion Model
 업로드한 코드들은 백본 모델에 수정한 부분만 업로드
 
 ## Features
-<img width="625" height="592" alt="image" src="https://github.com/user-attachments/assets/bbb0bfae-768a-4c67-b2ea-262d61ce0a5f" />
+<img width="325" height="292" alt="image" src="https://github.com/user-attachments/assets/bbb0bfae-768a-4c67-b2ea-262d61ce0a5f" />
 
 백본 모델의 각 블록은 freezing한 후, 사이드 네트워크를 연결해 추가 파라미터만 학습 
 
 자세한 설명은 [블로그](https://blog.naver.com/deoduck92/224200035002) 참고
 
 ## Result
-<img width="1072" height="164" alt="image" src="https://github.com/user-attachments/assets/2d17fa05-e88c-479b-871e-2f1343fa1241" />
+<img width="536" height="82" alt="image" src="https://github.com/user-attachments/assets/2d17fa05-e88c-479b-871e-2f1343fa1241" />
 
 기존 모델 대비 메모리 효율이 28.6% 향상하였고, 학습 시간도 1000 에포크 기준 절반 아래 감소
